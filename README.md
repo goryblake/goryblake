@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="left" alt="Coding" width="200" src="https://pbs.twimg.com/media/GSbxyx1XsAAgazF?format=jpg&name=large](https://pbs.twimg.com/media/GT8W0Vqb0AAxaG6?format=jpg&name=large">
+<img align="left" alt="Coding" width="200" src="https://pbs.twimg.com/media/GT8W0Vqb0AAxaG6?format=jpg">
 <!--
 **goryblake/goryblake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
